@@ -39,7 +39,6 @@ __pycache__/
 *.xlsx
 *.xls
 results/
-analysis_results/
 preprocessing/csv_data/
 preprocessing/result/
 ml_analysis/results/
